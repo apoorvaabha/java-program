@@ -10,4 +10,4 @@ public class ifandifelse {
             System.out.println(num + " is odd.");
 
     }
-    }}
+}
