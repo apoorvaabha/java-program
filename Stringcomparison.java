@@ -1,4 +1,4 @@
-public class stringcomparison {
+public class Stringcomparison {
         public static void main(String[] args) {
         String str1 = "James";
         String str2 = "Smith";
